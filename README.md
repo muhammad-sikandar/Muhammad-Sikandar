@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sikandar</h1>
-<h3 align="center">A passionate Mobile Application developer , ML Engineer</h3>
+<h3 align="center">A passionate Web Developer , ML Engineer</h3>
 
 - 🔭 I’m currently working on **Online Shop Application ,**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Flutter , Python**
+- 💬 Ask me about **web development , Data Science , Python**
 
 - 📫 How to reach me **mianmuhammadsikandar75@gmail.com**
 
