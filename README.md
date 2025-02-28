@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sikandar</h1>
 <h3 align="center">A passionate Web Developer , ML Engineer</h3>
 
-- 🔭 I’m currently working on **Online Shop Application ,**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **web development , Data Science , Python**
 
